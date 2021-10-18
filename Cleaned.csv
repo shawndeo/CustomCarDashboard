@@ -1,0 +1,335 @@
+﻿Year,Make,Model,Trim,Body,BodyConvertible,BodyCoupe,BodyGranCoupe,BodyPickup,BodyRoadster,BodySedan,BodySUV,BodyWagon,StartingMSRP,0-60 MPH,Drive Train,DTNum,MPG,Engine,EngineNum,Has Turbos,Engine Size (L),GHE,MPGe,HP,Auto,Cab,Range (mi),Top Speed,Origin Country
+,Porsche,718 Cayman,,Convertible,1,0,,,,0,,,62600,4.9,,,,Boxer 4,3,Turbocharged,,Gas,,300,,,,,Germany
+,Porsche,718 Cayman,T,Convertible,1,0,,,,0,,,71700,4.9,,,,Boxer 4,3,Turbocharged,,Gas,,300,,,,,Germany
+,Porsche,718 Cayman,S,Convertible,1,0,,,,0,,,74600,4.4,,,,Boxer 4,3,Turbocharged,,Gas,,350,,,,,Germany
+,Porsche,718 Cayman,GTS 4.0,Convertible,1,0,,,,0,,,89500,4.3,,,,Boxer 6,4,,,Gas,,394,,,,,Germany
+,Porsche,Boxster,25 Years,Convertible,1,0,,,,0,,,100100,4.3,,,,Boxer 6,4,,,Gas,,394,,,,,Germany
+,Porsche,911,Carrera,Convertible,1,0,,,,0,,,114000,4.2,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,379,,,,180,Germany
+,Porsche,911,Carrera 4,Convertible,1,0,,,,0,,,121300,4.2,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,379,,,,179,Germany
+,Porsche,911,Carrera S,Convertible,1,0,,,,0,,,129900,3.7,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,443,,,,190,Germany
+,Porsche,911,Carrera 4S,Convertible,1,0,,,,0,,,137200,3.6,,,,Boxer 6,4,Twin-Turbocharged,3,Gas,,443,,,,188,Germany
+,Porsche,911,Carrera GTS,Convertible,1,0,,,,0,,,149500,3.4,,,,Boxer 6,4,Twin-Turbocharged,3,Gas,,473,,,,192,Germany
+,Porsche,911,Carrera 4 GTS,Convertible,1,0,,,,0,,,156800,3.3,,,,Boxer 6,4,Twin-Turbocharged,3,Gas,,473,,,,190,Germany
+,Porsche,911,Turbo,Convertible,1,0,,,,0,,,187100,2.8,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,572,,,,199,Germany
+,Porsche,911,Turbo S,Convertible,1,0,,,,0,,,219800,2.7,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,640,,,,205,Germany
+2022,BMW,430i xDrive Convertible,,Convertible,1,0,,,,0,,,55300,5.8,AWD,1,33,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+,Mercedes-Benz,C 300 4MATIC Cabriolet,,Convertible,1,0,,,,0,,,56700,6.2,AWD,1,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,430i Convertible,,Convertible,1,0,0,0,0,0,0,0,53300,5.9,RWD,2,34,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+,Mercedes-Benz,C 300 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,54700,6.1,,,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,M440i xDrive Convertible,,Convertible,1,0,0,0,0,0,0,0,66200,4.7,AWD,1,31,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,M4 Competition xDrive Convertible,,Convertible,1,0,0,0,0,0,0,0,86300,3.6,AWD,1,23,I6,7,M TwinPower Turbo,3,Gas,,503,,,,,Germany
+2022,BMW,840i xDrive Convertible,,Convertible,1,0,0,0,0,0,0,0,97300,4.6,AWD,1,,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+,Mercedes-Benz,E 450 4MATIC Cabriolet,,Convertible,1,0,0,0,0,0,0,0,74450,4.9,AWD,1,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+2022,BMW,M440i Convertible,,Convertible,1,0,0,0,0,0,0,0,64200,5,RWD,2,31,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,840i Convertible,,Convertible,1,0,0,0,0,0,0,0,94400,5,RWD,2,,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+,Mercedes-Benz,E 450 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,71950,5.2,,,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Mercedes-Benz,AMG E 53 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,82850,4.4,,,,I6,7,AMG Turbo w/ EQ Boost & Electric Auxiliary Compressor,3,Gas,,429,,,,,Germany
+,Mercedes-Benz,AMG C 43 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,65500,4.6,,,,V6,8,AMG Bi-Turbo,3,Gas,,385,,,,,Germany
+2022,BMW,M850i xDrive Convertible,,Convertible,1,0,0,0,0,0,0,0,109400,3.8,AWD,1,,V8,9,M TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,M8 Competition Convertible,,Convertible,1,0,0,0,0,0,0,0,139500,3,AWD/2WD,5,,V8,9,M TwinPower Turbo,4.4,Gas,,617,,,,,Germany
+2021,Lexus,LC 500,,Convertible,1,0,0,0,0,0,0,0,101100,,RWD,2,,V8,9,,5,Gas,,471,,,,,Japan
+,Mercedes-Benz,AMG C 63 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,78000,4,,,,V8,9,AMG Bi-Turbo,4,Gas,,469,,,,,Germany
+,Mercedes-Benz,AMG C 63 S Cabriolet,,Convertible,1,0,0,0,0,0,0,0,85600,3.9,,,,V8,9,AMG Bi-Turbo,4,Gas,,503,,,,,Germany
+,Mercedes-Benz,S 560 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,140000,4.5,,,,V8,9,Bi-Turbo,4,Gas,,463,,,,,Germany
+,Mercedes-Benz,AMG S 63 Cabriolet,,Convertible,1,0,0,0,0,0,0,0,185400,3.4,,,,V8,9,AMG Bi-Turbo,4,Gas,,603,,,,,Germany
+2022,Chevrolet,Camaro,1SS,Convertible,1,0,0,0,0,0,0,0,37500,,,,,V8,9,,6.2,Gas,,455,,,,,USA
+2021,Ford,Mustang,EcoBoost,Convertible,1,0,0,0,0,0,0,0,32705,,,,,,,,,Gas,,,,,,,USA
+2021,Ford,Mustang,EcoBoost Premium,Convertible,1,0,0,0,0,0,0,0,37725,,,,,,,,,Gas,,,,,,,USA
+2021,Ford,Mustang,GT Premium,Convertible,1,0,0,0,0,0,0,0,45785,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Camaro,LT,Convertible,1,0,0,0,0,0,0,0,25500,,,,,,,Turbocharged,2,Gas,,275,,,,,USA
+2022,Chevrolet,Camaro,2LT,Convertible,1,0,0,0,0,0,0,0,27500,,,,,,,Turbocharged,2,Gas,,275,,,,,USA
+2022,Chevrolet,Camaro,3LT,Convertible,1,0,0,0,0,0,0,0,31500,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Camaro,2SS,Convertible,1,0,0,0,0,0,0,0,42500,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Corvette,1LT,Convertible,1,0,0,0,0,0,0,0,68400,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Corvette,2LT,Convertible,1,0,0,0,0,0,0,0,75200,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Corvette,3LT,Convertible,1,0,0,0,0,0,0,0,79850,,,,,,,,,Gas,,,,,,,USA
+,Porsche,718 Cayman,,Coupe,0,1,0,0,0,0,0,0,60500,4.9,,,,Boxer 4,3,Turbocharged,,Gas,,300,,,,,Germany
+,Porsche,718 Cayman,T,Coupe,0,1,0,0,0,0,0,0,69600,4.9,,,,Boxer 4,3,Turbocharged,,Gas,,300,,,,,Germany
+,Porsche,718 Cayman,S,Coupe,0,1,0,0,0,0,0,0,72500,4.4,,,,Boxer 4,3,Turbocharged,,Gas,,350,,,,,Germany
+,Porsche,911,Carrera,Coupe,0,1,0,0,0,0,0,0,101200,4,RWD,2,,Boxer 6,4,Twin-Turbocharged,,Gas,,379,,,,182,Germany
+,Porsche,718 Cayman,GTS 4.0,Coupe,0,1,0,0,0,0,0,0,87400,4.3,,,,Boxer 6,4,,,Gas,,394,,,,,Germany
+,Porsche,911,Carrera 4,Coupe,0,1,0,0,0,0,0,0,108500,4,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,379,,,,180,Germany
+,Porsche,911,Carrera S,Coupe,0,1,0,0,0,0,0,0,117100,3.5,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,443,,,,191,Germany
+,Porsche,911,Carrera 4S,Coupe,0,1,0,0,0,0,0,0,124400,3.4,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,443,,,,190,Germany
+,Porsche,911,Targa 4,Coupe,0,1,0,0,0,0,0,0,121300,4.2,,,,Boxer 6,4,Twin-Turbocharged,3,Gas,,379,,,,179,Germany
+,Porsche,911,Targa 4S,Coupe,0,1,0,0,0,0,0,0,137200,3.6,,,,Boxer 6,4,Twin-Turbocharged,3,Gas,,443,,,,188,Germany
+,Porsche,911,Carrera GTS,Coupe,0,1,0,0,0,0,0,0,136700,3.2,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,473,,,,193,Germany
+,Porsche,911,Carrera 4 GTS,Coupe,0,1,0,0,0,0,0,0,144000,3.1,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,473,,,,192,Germany
+,Porsche,911,Targa 4 GTS,Coupe,0,1,0,0,0,0,0,0,156800,3.3,,,,Boxer 6,4,Twin-Turbocharged,3,Gas,,473,,,,190,Germany
+,Porsche,911,Turbo,Coupe,0,1,0,0,0,0,0,0,174300,2.7,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,572,,,,199,Germany
+,Porsche,911,Turbo S,Coupe,0,1,0,0,0,0,0,0,207000,2.6,,,,Boxer 6,4,Twin-Turbocharged,,Gas,,640,,,,205,Germany
+,Porsche,911,GT3,Coupe,0,1,0,0,0,0,0,0,161100,3.2,,,,Boxer 6,4,,,Gas,,502,,,,197,Germany
+,Porsche,911,GT3 Touring Package,Coupe,0,1,0,0,0,0,0,0,161100,3.7,,,,Boxer 6,4,,,Gas,,502,,,,199,Germany
+2022,BMW,430i xDrive Coupe,,Coupe,0,1,0,0,0,0,0,0,47800,5.3,AWD,1,33,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+,Mercedes-Benz,CLA 250 4MATIC Coupe,,Coupe,0,1,0,0,0,0,0,0,39850,6.3,AWD,1,,I4,6,Turbo,2,Gas,,221,,,,,Germany
+,Mercedes-Benz,C 300 4MATIC Coupe,,Coupe,0,1,0,0,0,0,0,0,49200,5.9,AWD,1,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,230i Coupe,,Coupe,0,1,0,0,0,0,0,0,36350,5.5,RWD,2,35,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,430i Coupe,,Coupe,0,1,0,0,0,0,0,0,45800,5.5,RWD,2,34,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+,Mercedes-Benz,CLA 250 Coupe,,Coupe,0,1,0,0,0,0,0,0,37850,6.3,,,,I4,6,Turbo,2,Gas,,221,,,,,Germany
+,Mercedes-Benz,AMG CLA 35 Coupe,,Coupe,0,1,0,0,0,0,0,0,47850,4.8,,,,I4,6,AMG Turbo,2,Gas,,302,,,,,Germany
+,Mercedes-Benz,AMG CLA 45 Coupe,,Coupe,0,1,0,0,0,0,0,0,55350,4,,,,I4,6,AMG Turbo,2,Gas,,382,,,,,Germany
+,Mercedes-Benz,C 300 Coupe,,Coupe,0,1,0,0,0,0,0,0,47200,5.9,,,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,M240i xDrive Coupe,,Coupe,0,1,0,0,0,0,0,0,48550,4.1,AWD,1,32,I6,7,TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,M440i xDrive Coupe,,Coupe,0,1,0,0,0,0,0,0,58700,4.3,AWD,1,32,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,M4 Competition xDrive Coupe,,Coupe,0,1,0,0,0,0,0,0,78800,3.4,AWD,1,22,I6,7,M TwinPower Turbo,3,Gas,,503,,,,,Germany
+2022,BMW,840i xDrive Coupe,,Coupe,0,1,0,0,0,0,0,0,87900,3,AWD,1,,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+,Mercedes-Benz,E 450 4MATIC Coupe,,Coupe,0,1,0,0,0,0,0,0,67450,4.9,AWD,1,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Mercedes-Benz,CLS 450 4MATIC Coupe,,Coupe,0,1,0,0,0,0,0,0,72800,4.8,AWD,1,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+2022,BMW,M440i Coupe,,Coupe,0,1,0,0,0,0,0,0,56700,4.6,RWD,2,34,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,M4 Coupe,,Coupe,0,1,0,0,0,0,0,0,71800,4.1,RWD,2,23,I6,7,M TwinPower Turbo,3,Gas,,473,,,,,Germany
+2022,BMW,M4 Competition Coupe,,Coupe,0,1,0,0,0,0,0,0,74700,3.8,RWD,2,23,I6,7,M TwinPower Turbo,3,Gas,,503,,,,,Germany
+2022,BMW,840i Coupe,,Coupe,0,1,0,0,0,0,0,0,85000,3,RWD,2,,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2021,BMW,M2 Competition Coupe,,Coupe,0,1,0,0,0,0,0,0,58900,4.2,RWD,2,24,I6,7,M TwinPower Turbo,3,Gas,,405,,,,,Germany
+,Mercedes-Benz,E 450 Coupe,,Coupe,0,1,0,0,0,0,0,0,64950,5.2,,,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Mercedes-Benz,AMG E 53 Coupe,,Coupe,0,1,0,0,0,0,0,0,76250,4.3,,,,I6,7,AMG w/ EQ Boost & Electric Auxiliary Compressor,3,Gas,,429,,,,,Germany
+,Mercedes-Benz,CLS 450 Coupe,,Coupe,0,1,0,0,0,0,0,0,70300,5.1,,,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Mercedes-Benz,AMG CLS 53 Coupe,,Coupe,0,1,0,0,0,0,0,0,81550,4.3,,,,I6,7,AMG Turbo w/ EQ Boost & Electric Auxiliary Compressor,3,Gas,,429,,,,,Germany
+,Mercedes-Benz,AMG GT 43 4-door Coupe,,Coupe,0,1,0,0,0,0,0,0,89900,4.8,,,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Mercedes-Benz,AMG GT 53 4-door Coupe,,Coupe,0,1,0,0,0,0,0,0,99950,4.4,,,,I6,7,AMG Turbo w/ EQ Boost & Electric Auxiliary Compressor,3,Gas,,429,,,,,Germany
+2021,Lexus,RC 300 AWD,,Coupe,0,1,0,0,0,0,0,0,44910,,AWD,1,,V6,8,,,Gas,,260,,,,,Japan
+2021,Lexus,RC 300 F SPORT AWD,,Coupe,0,1,0,0,0,0,0,0,48865,,AWD,1,,V6,8,,,Gas,,260,,,,,Japan
+2021,Lexus,RC 350,,Coupe,0,1,0,0,0,0,0,0,47315,5.8,AWD,1,,V6,8,,,Gas,,311,Auto,,,,Japan
+2021,Lexus,RC 350 F SPORT,,Coupe,0,1,0,0,0,0,0,0,51230,,AWD,1,,V6,8,,,Gas,,311,,,,,Japan
+2021,Dodge,Challenger,SXT,Coupe,0,1,0,0,0,0,0,0,32065,,AWD,1,,V6,8,,3.6,Gas,,303,,,,,USA
+2021,Dodge,Challenger,GT,Coupe,0,1,0,0,0,0,0,0,35065,,AWD,1,,V6,8,,3.6,Gas,,303,,,,,USA
+2021,Lexus,RC 350,,Coupe,0,1,0,0,0,0,0,0,45150,5.8,RWD,2,,V6,8,,,Gas,,311,Auto,,,,Japan
+2021,Lexus,RC 350 F SPORT,,Coupe,0,1,0,0,0,0,0,0,49620,,RWD,2,,V6,8,,,Gas,,311,,,,,Japan
+2021,Dodge,Challenger,SXT,Coupe,0,1,0,0,0,0,0,0,29065,,RWD,2,,V6,8,,3.6,Gas,,303,,,,,USA
+2021,Dodge,Challenger,GT,Coupe,0,1,0,0,0,0,0,0,32065,,RWD,2,,V6,8,,3.6,Gas,,303,,,,,USA
+,Mercedes-Benz,AMG C 43 Coupe,,Coupe,0,1,0,0,0,0,0,0,59000,4.5,,,,V6,8,AMG Bi-Turbo,3,Gas,,385,,,,,Germany
+2022,BMW,M850i xDrive Coupe,,Coupe,0,1,0,0,0,0,0,0,99900,4.4,AWD,1,,V8,9,M TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,M8 Competition Coupe,,Coupe,0,1,0,0,0,0,0,0,130000,4.4,AWD,1,,V8,9,M TwinPower Turbo,4.4,Gas,,617,,,,,Germany
+,Mercedes-Benz,S 560 4MATIC Coupe,,Coupe,0,1,0,0,0,0,0,0,131400,4.5,AWD,1,,V8,9,Bi-Turbo,4,Gas,,463,,,,,Germany
+2021,Lexus,LC 500,,Coupe,0,1,0,0,0,0,0,0,93050,4.4,RWD,2,,V8,9,,5,Gas,,471,Auto,,,,Japan
+2021,Dodge,Challenger,R/T,Coupe,0,1,0,0,0,0,0,0,35765,,RWD,2,,V8,9,,5.7,Gas,,375,,,,,USA
+2021,Dodge,Challenger,R/T SCAT PACK,Coupe,0,1,0,0,0,0,0,0,41840,,RWD,2,,V8,9,,,Gas,,485,,,,,USA
+2021,Dodge,Challenger,R/T SCAT PACK WIDEBODY,Coupe,0,1,0,0,0,0,0,0,47835,,RWD,2,,V8,9,,,Gas,,485,,,,,USA
+2021,Dodge,Challenger,STR HELLCAT,Coupe,0,1,0,0,0,0,0,0,61465,,RWD,2,,V8,9,,6.2,Gas,,717,,,,,USA
+2021,Dodge,Challenger,SRT HELLCAT WIDEBODY,Coupe,0,1,0,0,0,0,0,0,67465,,RWD,2,,V8,9,,6.2,Gas,,717,,,,,USA
+2021,Dodge,Challenger,SRT HELLCAT REDEYE,Coupe,0,1,0,0,0,0,0,0,73065,,RWD,2,,V8,9,,6.2,Gas,,797,,,,,USA
+2021,Dodge,Challenger,SRT HELLCAT WIDEBODY,Coupe,0,1,0,0,0,0,0,0,79465,,RWD,2,,V8,9,,6.2,Gas,,797,,,,,USA
+2021,Dodge,Challenger,SRT SUPER STOCK,Coupe,0,1,0,0,0,0,0,0,82465,,RWD,2,,V8,9,,6.2,Gas,,807,,,,,USA
+,Mercedes-Benz,AMG C 63 Coupe,,Coupe,0,1,0,0,0,0,0,0,70650,3.8,,,,V8,9,AMG Bi-Turbo,4,Gas,,469,,,,,Germany
+,Mercedes-Benz,AMG C 63 S Coupe,,Coupe,0,1,0,0,0,0,0,0,78250,3.7,,,,V8,9,AMG Bi-Turbo,4,Gas,,503,,,,,Germany
+,Mercedes-Benz,AMG S 63 Coupe,,Coupe,0,1,0,0,0,0,0,0,173100,3.4,,,,V8,9,AMG Bi-Turbo,4,Gas,,603,,,,,Germany
+,Mercedes-Benz,AMG GT 63 4-door Coupe,,Coupe,0,1,0,0,0,0,0,0,140600,3.3,,,,V8,9,AMG Bi-Turbo,4,Gas,,577,,,,,Germany
+,Mercedes-Benz,AMG GT 63 S 4-door Coupe,,Coupe,0,1,0,0,0,0,0,0,161900,3.1,,,,V8,9,AMG Bi-Turbo,4,Gas,,630,,,,,Germany
+,Mercedes-Benz,AMG GT Coupe,,Coupe,0,1,0,0,0,0,0,0,118600,3.7,,,,V8,9,AMG Bi-Turbo,4,Gas,,523,,,,,Germany
+,Mercedes-Benz,AMG GT C Coupe,,Coupe,0,1,0,0,0,0,0,0,153500,3.6,,,,V8,9,AMG Bi-Turbo,4,Gas,,550,,,,,Germany
+,Mercedes-Benz,AMG GT Black Series Coupe,,Coupe,0,1,0,0,0,0,0,0,325000,3.1,,,,V8,9,AMG Bi-Turbo,4,Gas,,720,,,,,Germany
+2021,Ford,Mustang,Mach 1,Coupe,0,1,0,0,0,0,0,0,53400,,,,,V8,9,,5,Gas,,,,,,,USA
+2021,Ford,Mustang,Shelby GT500,Coupe,0,1,0,0,0,0,0,0,72900,,,,,V8,9,,5.2,Gas,,,,,,,USA
+2022,Chevrolet,Camaro,LT1,Coupe,0,1,0,0,0,0,0,0,34000,,,,,V8,9,,6.2,Gas,,455,Manual,,,,USA
+2022,Chevrolet,Camaro,ZL1,Coupe,0,1,0,0,0,0,0,0,63000,,,,,V8,9,,6.2,Gas,,650,Manual,,,,USA
+2021,Lexus,RC 300 RWD,,Coupe,0,1,0,0,0,0,0,0,42220,,RWD,2,,,,,,Gas,,,,,,,Japan
+2021,Lexus,RC 300 F Sport RWD,,Coupe,0,1,0,0,0,0,0,0,46690,,RWD,2,,,,,,Gas,,,,,,,Japan
+2021,Lexus,LC 500,,Coupe,0,1,0,0,0,0,0,0,97610,,RWD,2,,,,,,Hybrid,,354,,,,,Japan
+2021,Ford,Mustang,EcoBoost Fastback,Coupe,0,1,0,0,0,0,0,0,27205,,,,,,,,,Gas,,,,,,,USA
+2021,Ford,Mustang,EcoBoost Premium Fastback,Coupe,0,1,0,0,0,0,0,0,32225,,,,,,,,,Gas,,,,,,,USA
+2021,Ford,Mustang,GT Fastback,Coupe,0,1,0,0,0,0,0,0,36285,,,,,,,,,Gas,,,,,,,USA
+2021,Ford,Mustang,,Coupe,0,1,0,0,0,0,0,0,40285,,,,,,,,,Gas,,,,,,,USA
+2021,Ford,Mustang,Mach 1 Premium,Coupe,0,1,0,0,0,0,0,0,55300,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Camaro,LS,Coupe,0,1,0,0,0,0,0,0,25000,,,,,,,Turbocharged,2,Gas,,275,Manual,,,,USA
+2022,Chevrolet,Corvette,1LT,Coupe,0,1,0,0,0,0,0,0,60900,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Corvette,2LT,Coupe,0,1,0,0,0,0,0,0,68200,,,,,,,,,Gas,,,,,,,USA
+2022,Chevrolet,Corvette,3LT,Coupe,0,1,0,0,0,0,0,0,72850,,,,,,,,,Gas,,,,,,,USA
+2022,BMW,228i xDrive Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,37700,6,AWD,1,33,I4,6,TwinPower Turbo,2,Gas,,228,,,,,Germany
+2022,BMW,M235i xDrive Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,45500,4.7,AWD,1,32,I4,6,M TwinPower Turbo,2,Gas,,301,,,,,Germany
+2022,BMW,228i Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,35700,6.3,FWD,3,34,I4,6,TwinPower Turbo,2,Gas,,228,,,,,Germany
+2022,BMW,430i Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,45200,5.8,RWD,2,34,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,M440i xDrive Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,58200,4.4,AWD,1,29,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,840i xDrive Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,87900,4.6,AWD,1,27,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,840i Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,85000,4.9,RWD,2,29,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,M850i xDrive Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,99900,3.7,AWD,1,24,V8,9,M TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,ALPINA B8 xDrive Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,139900,4.4,AWD,1,24,V8,9,ALPINA Bi-Turbo,4.4,Gas,,612,,,,,Germany
+2022,BMW,M8 Competition Gran Coupe,,Gran Coupe,0,0,1,0,0,0,0,0,130000,3,AWD/2WD,5,21,V8,9,M TwinPower Turbo,4.4,Gas,,617,,,,,Germany
+2021,Ford,F-150,XL,Pickup,0,0,0,1,0,0,0,0,29290,,,,,V6,8,,3.3,Gas,,,Auto,Regular,,,USA
+2021,Ford,F-150,XLT,Pickup,0,0,0,1,0,0,0,0,35400,,,,,,,,,Gas,,,,Regular,,,USA
+2022,BMW,Z4 sDrive30i,,Roadster,0,0,0,0,1,0,0,0,49900,5.2,RWD,2,32,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,Z4 M40i,,Roadster,0,0,0,0,1,0,0,0,63700,3.9,RWD,2,29,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+,Mercedes-Benz,AMG GT Roadster,,Roadster,0,0,0,0,1,0,0,0,130700,3.7,,,,V8,9,AMG Bi-Turbo,4,Gas,,523,,,,,Germany
+,Mercedes-Benz,AMG GT C Roadster,,Roadster,0,0,0,0,1,0,0,0,165100,3.6,,,,V8,9,AMG Bi-Turbo,4,Gas,,550,,,,,Germany
+2022,Honda,Accord,Sport,Sedan,0,0,0,0,0,1,0,0,32110,,,,,4-Cyl 10AT,1,Turbo,2,,,252,,,,,Japan
+2022,Honda,Accord,Touring,Sedan,0,0,0,0,0,1,0,0,36900,,,,,4-Cyl 10AT,1,Turbo,2,,,252,,,,,Japan
+2022,Honda,Civic,LX,Sedan,0,0,0,0,0,1,0,0,21900,,,,,4-Cyl CVT,2,,2,,,158,,,,,Japan
+2022,Honda,Civic,Sport,Sedan,0,0,0,0,0,1,0,0,23300,,,,,4-Cyl CVT,2,,2,,,158,,,,,Japan
+2022,Honda,Civic,EX,Sedan,0,0,0,0,0,1,0,0,24900,,,,,4-Cyl CVT,2,,1.5,,,180,,,,,Japan
+2022,Honda,Civic,Touring,Sedan,0,0,0,0,0,1,0,0,28500,,,,,4-Cyl CVT,2,,1.5,,,180,,,,,Japan
+2022,Honda,Accord,LX,Sedan,0,0,0,0,0,1,0,0,24970,,,,,4-Cyl CVT,2,Turbo,1.5,,,192,,,,,Japan
+2022,Honda,Accord,Sport,Sedan,0,0,0,0,0,1,0,0,27430,,,,,4-Cyl CVT,2,,1.5,,,192,,,,,Japan
+2022,Honda,Accord,Sport Special Edition,Sedan,0,0,0,0,0,1,0,0,29315,,,,,4-Cyl CVT,2,Turbo,1.5,,,192,,,,,Japan
+2022,Honda,Accord,EX-L,Sedan,0,0,0,0,0,1,0,0,31290,,,,,4-Cyl CVT,2,Turbo,1.5,,,192,,,,,Japan
+,Mercedes-Benz,EQS 580 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,119110,4.1,AWD,1,,Dual Permanently Excited Synchronous (PSM),,,,Electric,,516,,,,,Germany
+2022,BMW,330i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,43450,5.3,AWD,1,34,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,330e xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,44950,5.7,AWD,1,,I4,6,TwinPower Turbo,2,Electric,67,288,,,,,Germany
+2022,BMW,530 xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,56500,5.8,AWD,1,32,I4,6,TwinPower Turbo,2,Gas,,248,,,,,Germany
+2022,BMW,530e xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,57850,5.7,AWD,1,,I4,6,TwinPower Turbo,2,Electric,62,288,,,,,Germany
+,Mercedes-Benz,A 220 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,35650,7.1,AWD,1,,I4,6,Turbo,2,Gas,,188,,,,,Germany
+,Mercedes-Benz,AMG A 35 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,45850,4.6,AWD,1,,I4,6,AMG Turbo,2,Gas,,302,,,,,Germany
+,Mercedes-Benz,C 300 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,43600,5.7,AWD,1,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+,Mercedes-Benz,E 350 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,56750,6,AWD,1,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+2022,Lexus,ES 250,,Sedan,0,0,0,0,0,1,0,0,40800,,AWD,1,,I4,6,,,Gas,,203,Auto,,,,Japan
+2022,BMW,330i,,Sedan,0,0,0,0,0,1,0,0,41450,5.6,RWD,2,36,I4,6,TwinPower Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,330e Sedan,,Sedan,0,0,0,0,0,1,0,0,42950,5.6,RWD,2,,I4,6,TwinPower Turbo,2,Electric,75,288,,,,,Germany
+2022,BMW,530i Sedan,,Sedan,0,0,0,0,0,1,0,0,54200,5.9,RWD,2,33,I4,6,TwinPower Turbo,2,Gas,,248,,,,,Germany
+2022,BMW,530ie Sedan,,Sedan,0,0,0,0,0,1,0,0,55550,5.7,RWD,2,,I4,6,TwinPower Turbo,2,Electric,64,288,,,,,Germany
+2021,Lexus,IS 300,,Sedan,0,0,0,0,0,1,0,0,39050,,RWD,2,,I4,6,Turbocharged,,Gas,,241,,,,,Japan
+,Mercedes-Benz,A 220 Sedan,,Sedan,0,0,0,0,0,1,0,0,33650,7.1,,,,I4,6,Turbo,2,Gas,,188,,,,,Germany
+,Mercedes-Benz,C 300 Sedan,,Sedan,0,0,0,0,0,1,0,0,41600,5.7,,,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+,Mercedes-Benz,E 350 Sedan,,Sedan,0,0,0,0,0,1,0,0,54250,6.1,,,,I4,6,Turbo,2,Gas,,255,,,,,Germany
+2022,BMW,M340i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,56700,4.1,AWD,1,32,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,M3 Competition xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,76900,3.4,AWD,1,22,I6,7,M TwinPower Turbo,3,Gas,,503,,,,,Germany
+2022,BMW,540i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,62250,4.6,AWD,1,29,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,740i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,89800,4.8,AWD,1,27,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,745e xDrive,,Sedan,0,0,0,0,0,1,0,0,95900,4.9,AWD,1,,I6,7,TwinPower Turbo,3,Electric,56,389,,,,,Germany
+,Mercedes-Benz,E 450 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,62000,4.9,AWD,1,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Mercedes-Benz,S 500 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,109800,4.9,AWD,1,,I6,7,Turbo w/ EQ Boost & Electric Auxiliary Compressor,3,Gas,,429,,,,,Germany
+2022,BMW,M340i Sedan,,Sedan,0,0,0,0,0,1,0,0,54700,4.4,RWD,2,32,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,M3 Sedan,,Sedan,0,0,0,0,0,1,0,0,69900,4.1,RWD,2,23,I6,7,M TwinPower Turbo,3,Gas,,473,,,,,Germany
+2022,BMW,M3 Competition Sedan,,Sedan,0,0,0,0,0,1,0,0,72800,3.8,RWD,2,23,I6,7,M TwinPower Turbo,3,Gas,,503,,,,,Germany
+2022,BMW,540i Sedan,,Sedan,0,0,0,0,0,1,0,0,59950,4.9,RWD,2,32,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,740i Sedan,,Sedan,0,0,0,0,0,1,0,0,86800,5.3,RWD,2,29,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+,Mercedes-Benz,AMG E 53 Sedan,,Sedan,0,0,0,0,0,1,0,0,73900,4.4,,,,I6,7,Turbo w/ EQ Boost & Electric Auxiliary Compressor,3,Gas,,429,,,,,Germany
+,Mercedes-Benz,EQS 450+ Sedan,,Sedan,0,0,0,0,0,1,0,0,102310,5.9,,,,Permanently Excited Synchronous (PSM),,,,Electric,,329,,,,,Germany
+2022,BMW,M760i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,157800,3.6,AWD,1,20,V12,10,M Performance TwinPower Turbo,6.6,Gas,,600,,,,,Germany
+2021,Lexus,IS 300,,Sedan,0,0,0,0,0,1,0,0,41050,,AWD,1,,V6,8,,,Gas,,260,Auto,,,,Japan
+2021,Lexus,IS 350 F Sport,,Sedan,0,0,0,0,0,1,0,0,44950,,AWD,1,,V6,8,,,Gas,,311,,,,,Japan
+2021,Lexus,LS 500,,Sedan,0,0,0,0,0,1,0,0,79250,4.6,AWD,1,,V6,8,Twin-Turbo,,Gas,,416,,,,,Japan
+2021,Dodge,Charger,SXT,Sedan,0,0,0,0,0,1,0,0,34725,,AWD,1,,V6,8,,3.6,Gas,,300,Auto,,,,USA
+2021,Dodge,Charger,GT,Sedan,0,0,0,0,0,1,0,0,36125,,AWD,1,,V6,8,,3.6,Gas,,300,Auto,,,,USA
+2022,Maserati,Ghibli,Modena Q4,Sedan,0,0,0,0,0,1,0,0,83500,4.7,AWD,1,,V6,8,,3,Gas,,424,,,,178,Italy
+2022,Maserati,Quattroporte,Modena Q4,Sedan,0,0,0,0,0,1,0,0,110300,4.8,AWD,1,,V6,8,,3,Gas,,424,,,,179,Italy
+2022,Lexus,ES 350,,Sedan,0,0,0,0,0,1,0,0,40800,,FWD,3,,V6,8,,,Gas,,302,Auto,,,,Japan
+2021,Lexus,IS 350 F Sport,,Sedan,0,0,0,0,0,1,0,0,42950,,RWD,2,,V6,8,,,Gas,,311,,,,,Japan
+2021,Lexus,LS 500,,Sedan,0,0,0,0,0,1,0,0,76000,4.6,RWD,2,,V6,8,Twin-Turbo,,Gas,,416,,,,,Japan
+2021,Dodge,Charger,SXT,Sedan,0,0,0,0,0,1,0,0,31125,,RWD,2,,V6,8,,3.6,Gas,,,,,,,USA
+2021,Dodge,Charger,GT,Sedan,0,0,0,0,0,1,0,0,33125,,RWD,2,,V6,8,,3.6,Gas,,,,,,,USA
+2022,Maserati,Ghibli,GT,Sedan,0,0,0,0,0,1,0,0,76200,5.5,RWD,2,,V6,8,,3,Gas,,345,,,,166,Italy
+2022,Maserati,Ghibli,Modena,Sedan,0,0,0,0,0,1,0,0,80900,4.9,RWD,2,,V6,8,,3,Gas,,424,,,,178,Italy
+2022,Maserati,Quattroporte,GT,Sedan,0,0,0,0,0,1,0,0,96000,,RWD,2,,V6,8,,3,Gas,,345,,,,166,Italy
+2022,Maserati,Quattroporte,Modena,Sedan,0,0,0,0,0,1,0,0,105800,5,RWD,2,,V6,8,,3,Gas,,424,,,,179,Italy
+,Mercedes-Benz,AMG C 43 Sedan,,Sedan,0,0,0,0,0,1,0,0,56500,4.5,,,,V6,8,AMG Bi-Turbo,3,Gas,,385,,,,,Germany
+,Porsche,Panamera,,Sedan,0,0,0,0,0,1,0,0,88400,5.3,,,,V6,8,Twin-Turbocharged,,Gas,,325,,,,168,Germany
+,Porsche,Panamera,4,Sedan,0,0,0,0,0,1,0,0,93000,5,,,,V6,8,Twin-Turbocharged,,Gas,,325,,,,167,Germany
+,Porsche,Panamera,4 Executive,Sedan,0,0,0,0,0,1,0,0,99700,5.1,,,,V6,8,Twin-Turbocharged,,Gas,,325,,,,166,Germany
+,Porsche,Panamera,4S,Sedan,0,0,0,0,0,1,0,0,106400,4.1,,,,V6,8,Twin-Turbocharged,,Gas,,443,,,,183,Germany
+,Porsche,Panamera,4S Executive,Sedan,0,0,0,0,0,1,0,0,117700,4.2,,,,V6,8,Twin-Turbocharged,,Gas,,443,,,,183,Germany
+,Porsche,Panamera,4 E-Hybrid,Sedan,0,0,0,0,0,1,0,0,105000,4.2,,,,V6,8,Twin-Turbocharged,,Hybrid,,455,,,,174,Germany
+,Porsche,Panamera,4 E-Hybrid Executive,Sedan,0,0,0,0,0,1,0,0,109500,4.3,,,,V6,8,Twin-Turbocharged,,Hybrid,,455,,,,174,Germany
+,Porsche,Panamera,4S E-Hybrid,Sedan,0,0,0,0,0,1,0,0,114700,3.5,,,,V6,8,Twin-Turbocharged,,Hybrid,,552,,,,185,Germany
+,Porsche,Panamera,4S E-Hybrid Executive,Sedan,0,0,0,0,0,1,0,0,126000,3.6,,,,V6,8,Twin-Turbocharged,,Hybrid,,552,,,,185,Germany
+2022,BMW,M550i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,76800,3.6,AWD,1,25,V8,9,M TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,M5 Sedan,,Sedan,0,0,0,0,0,1,0,0,103500,3.2,AWD,1,21,V8,9,M TwinPower Turbo,4.4,Gas,,600,,,,,Germany
+2022,BMW,750i xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,103000,3.9,AWD,1,24,V8,9,TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,ALPINA B7 xDrive Sedan,,Sedan,0,0,0,0,0,1,0,0,143200,3.5,AWD,1,24,V8,9,TwinPower Turbo,4.4,Gas,,600,,,,,Germany
+,Mercedes-Benz,S 580 4MATIC Sedan,,Sedan,0,0,0,0,0,1,0,0,116300,4.4,AWD,1,,V8,9,Bi-Turbo w/ EQ Boost,4,Gas,,496,,,,,Germany
+,Mercedes-Maybach,S 580 4MATIC,,Sedan,0,0,0,0,0,1,0,0,184900,4.7,AWD,1,,V8,9,Bi-Turbo w/ EQ Boost,4,Gas,,496,,,,,Germany
+2021,Dodge,Charger,R/T,Sedan,0,0,0,0,0,1,0,0,38125,,RWD,2,,V8,9,,5.7,Gas,,370,,,,,USA
+2021,Dodge,Charger,SCAT PACK,Sedan,0,0,0,0,0,1,0,0,42800,,RWD,2,,V8,9,,,Gas,,485,,,,,USA
+2021,Dodge,Charger,SCAT PACK WIDEBODY,Sedan,0,0,0,0,0,1,0,0,48795,,RWD,2,,V8,9,,,Gas,,485,,,,,USA
+2021,Dodge,Charger,SRT HELLCAT WIDEBODY,Sedan,0,0,0,0,0,1,0,0,73225,,RWD,2,,V8,9,,6.2,Gas,,717,,,,,USA
+2021,Dodge,Charger,SRT HELLCAT REDEYE WIDEBODY,Sedan,0,0,0,0,0,1,0,0,81825,,RWD,2,,V8,9,,6.2,Gas,,797,,,,,USA
+2022,Maserati,Ghibli,Trofeo,Sedan,0,0,0,0,0,1,0,0,110600,4,RWD,2,,V8,9,,3.8,Gas,,580,,,,203,Italy
+2022,Maserati,Quattroporte,Trofeo,Sedan,0,0,0,0,0,1,0,0,143200,4.2,RWD,2,,V8,9,,3.8,Gas,,580,,,,203,Italy
+,Mercedes-Benz,AMG C 63 Sedan,,Sedan,0,0,0,0,0,1,0,0,68600,3.9,,,,V8,9,AMG Bi-Turbo,4,Gas,,469,,,,,Germany
+,Mercedes-Benz,AMG C 63 S Sedan,,Sedan,0,0,0,0,0,1,0,0,76200,3.8,,,,V8,9,AMG Bi-Turbo,4,Gas,,503,,,,,Germany
+,Mercedes-Benz,AMG E 63 S Sedan,,Sedan,0,0,0,0,0,1,0,0,107500,3.3,,,,V8,9,AMG Bi-Turbo,4,Gas,,603,,,,,Germany
+,Porsche,Panamera,GTS,Sedan,0,0,0,0,0,1,0,0,130700,3.7,,,,V8,9,Twin-Turbocharged,,Gas,,473,,,,186,Germany
+,Porsche,Panamera,Turbo S,Sedan,0,0,0,0,0,1,0,0,179800,2.9,,,,V8,9,Twin-Turbocharged,,Gas,,620,,,,196,Germany
+,Porsche,Panamera,Turbo S Executive,Sedan,0,0,0,0,0,1,0,0,190200,3,,,,V8,9,Twin-Turbocharged,,Gas,,620,,,,196,Germany
+,Porsche,Panamera,Turbo S E-Hybrid,Sedan,0,0,0,0,0,1,0,0,189800,3,,,,V8,9,Twin-Turbocharged,,Hybrid,,690,,,,196,Germany
+,Porsche,Panamera,Turbo S E-Hybrid Executive,Sedan,0,0,0,0,0,1,0,0,200200,3.1,,,,V8,9,Twin-Turbocharged,,Hybrid,,690,,,,196,Germany
+2022,Lexus,ES 250 F Sport,,Sedan,0,0,0,0,0,1,0,0,45450,,AWD,1,,,,,,Gas,,,,,,,Japan
+2022,Lexus,ES 250 Luxury,,Sedan,0,0,0,0,0,1,0,0,46200,,AWD,1,,,,,,Gas,,,,,,,Japan
+2022,Lexus,ES 250 Ultra Luxury,,Sedan,0,0,0,0,0,1,0,0,49980,,AWD,1,,,,,,Gas,,,,,,,Japan
+2021,Lexus,LS 500 F SPORT,,Sedan,0,0,0,0,0,1,0,0,82850,,AWD,1,,,,,,Gas,,,,,,,Japan
+2021,Lexus,LS 500h,,Sedan,0,0,0,0,0,1,0,0,93750,,AWD,1,,,,,,Hybrid,,,,,,,Japan
+2022,Lexus,ES 350 F Sport,,Sedan,0,0,0,0,0,1,0,0,45450,6.6,FWD,3,,,,,,Gas,,,,,,,Japan
+2022,Lexus,ES 350 Luxury,,Sedan,0,0,0,0,0,1,0,0,46200,,FWD,3,,,,,,Gas,,,,,,,Japan
+2022,Lexus,ES 350 Ultra Luxury,,Sedan,0,0,0,0,0,1,0,0,49980,,FWD,3,,,,,,Gas,,,,,,,Japan
+2022,Lexus,ES 300h,,Sedan,0,0,0,0,0,1,0,0,41900,,FWD,3,,,,,,Hybrid,,,,,,,Japan
+2022,Lexus,ES 300h F Sport,,Sedan,0,0,0,0,0,1,0,0,45450,,FWD,3,,,,,,Hybrid,,,,,,,Japan
+2022,Lexus,ES 300h Luxury,,Sedan,0,0,0,0,0,1,0,0,47300,,FWD,3,,,,,,Hybrid,,,,,,,Japan
+2022,Lexus,ES 300h Ultra Luxury,,Sedan,0,0,0,0,0,1,0,0,41080,,FWD,3,,,,,,Hybrid,,,,,,,Japan
+2021,Lexus,LS 500 F SPORT,,Sedan,0,0,0,0,0,1,0,0,79600,,RWD,2,,,,,,Gas,,,,,,,Japan
+2021,Lexus,LS 500h,,Sedan,0,0,0,0,0,1,0,0,90500,,RWD,2,,,,,,Hybrid,,,,,,,Japan
+,Porsche,Taycan,,Sedan,0,0,0,0,0,1,0,0,82700,5.1,,,,,,,,Electric,,402,,,225,143,Germany
+,Porsche,Taycan,4S,Sedan,0,0,0,0,0,1,0,0,103800,3.8,,,,,,,,Electric,,522,,,227,155,Germany
+,Porsche,Taycan,Turbo,Sedan,0,0,0,0,0,1,0,0,150900,3,,,,,,,,Electric,,670,,,212,161,Germany
+,Porsche,Taycan,Turbo S,Sedan,0,0,0,0,0,1,0,0,185000,2.6,,,,,,,,Electric,,750,,,201,161,Germany
+2021,Honda,CR-V,LX,SUV,0,0,0,0,0,0,1,0,25350,,2WD,4,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,Special Edition,SUV,0,0,0,0,0,0,1,0,26550,,2WD,4,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,EX,SUV,0,0,0,0,0,0,1,0,27860,,2WD,4,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,EX-L,SUV,0,0,0,0,0,0,1,0,30450,,2WD,4,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,Touring,SUV,0,0,0,0,0,0,1,0,33650,,2WD,4,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,LX,SUV,0,0,0,0,0,0,1,0,26850,,AWD,1,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,Special Edition,SUV,0,0,0,0,0,0,1,0,28050,,AWD,1,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,EX,SUV,0,0,0,0,0,0,1,0,29360,,AWD,1,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,EX-L,SUV,0,0,0,0,0,0,1,0,31950,,AWD,1,,CVT,5,,,,,190,,,,,Japan
+2021,Honda,CR-V,Touring,SUV,0,0,0,0,0,0,1,0,35150,,AWD,1,,CVT,5,,,,,190,,,,,Japan
+2021,BMW,X1 xDrive28i,,SUV,0,0,0,0,0,0,1,0,37400,6.3,AWD,1,31,I4,6,TwinPower Turbo,2,Gas,,228,,,,,Germany
+2022,BMW,X2 xDrive28i,,SUV,0,0,0,0,0,0,1,0,38600,6.3,AWD,1,31,I4,6,TwinPower Turbo,2,Gas,,228,,,,,Germany
+2022,BMW,X2 M35i,,SUV,0,0,0,0,0,0,1,0,46450,4.7,AWD,1,30,I4,6,M TwinPower Turbo,2,Gas,,301,,,,,Germany
+2022,BMW,X3 xDrive30i,,SUV,0,0,0,0,0,0,1,0,45700,6,AWD,1,28,I4,6,TwinPower Turbo,2,Gas,,248,,,,,Germany
+2022,BMW,X4 xDrive30i,,SUV,0,0,0,0,0,0,1,0,51800,6,AWD,1,28,I4,6,TwinPower Turbo,2,Gas,,248,,,,,Germany
+2021,BMW,X1 sDrive28i,,SUV,0,0,0,0,0,0,1,0,35400,6.6,FWD,3,33,I4,6,TwinPower Turbo,2,Gas,,228,,,,,Germany
+2022,BMW,X2 sDrive28i,,SUV,0,0,0,0,0,0,1,0,36600,6.6,FWD,3,32,I4,6,TwinPower Turbo,2,Gas,,228,,,,,Germany
+2022,BMW,X3 sDrive30i,,SUV,0,0,0,0,0,0,1,0,43700,6,RWD,2,29,I4,6,TwinPower Turbo,2,Gas,,248,,,,,Germany
+2022,BMW,X3 M40i,,SUV,0,0,0,0,0,0,1,0,57800,4.4,AWD,1,26,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,X3 M,,SUV,0,0,0,0,0,0,1,0,69900,3.9,AWD,1,20,I6,7,M TwinPower Turbo,3,Gas,,473,,,,,Germany
+2022,BMW,X4 M40i,,SUV,0,0,0,0,0,0,1,0,62400,4.4,AWD,1,26,I6,7,M TwinPower Turbo,3,Gas,,382,,,,,Germany
+2022,BMW,X4 M,,SUV,0,0,0,0,0,0,1,0,73400,3.9,AWD,1,20,I6,7,M TwinPower Turbo,3,Gas,,473,,,,,Germany
+2022,BMW,X5 xDrive40i,,SUV,0,0,0,0,0,0,1,0,61700,5.3,AWD,1,25,I6,7,M TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,X5 xDrive45e,,SUV,0,0,0,0,0,0,1,0,63700,5.3,AWD,1,,I6,7,TwinPower Turbo,3,Electric,50,389,,,,,Germany
+2022,BMW,X6 xDrive40i,,SUV,0,0,0,0,0,0,1,0,67350,5.3,AWD,1,25,I6,7,M TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,X7 xDrive40i,,SUV,0,0,0,0,0,0,1,0,74900,5.8,AWD,1,24,I6,7,TwinPower Turbo,3,Gas,,335,,,,,Germany
+2022,BMW,X5 sDrive40i,,SUV,0,0,0,0,0,0,1,0,59400,5.3,RWD,2,26,I6,7,M TwinPower Turbo,3,Gas,,335,,,,,Germany
+2021,Dodge,Durango,SXT,SUV,0,0,0,0,0,0,1,0,35562,,AWD,1,,V6,8,,3.6,Gas,,293,,,,,USA
+2021,Dodge,Durango,SXT PLUS,SUV,0,0,0,0,0,0,1,0,39952,,AWD,1,,V6,8,,3.6,Gas,,295,,,,,USA
+2021,Dodge,Durango,GT,SUV,0,0,0,0,0,0,1,0,39757,,AWD,1,,V6,8,,3.6,Gas,,295,,,,,USA
+2021,Dodge,Durango,GT PLUS,SUV,0,0,0,0,0,0,1,0,43757,,AWD,1,,V6,8,,3.6,Gas,,295,,,,,USA
+2022,Maserati,Levante,GT,SUV,0,0,0,0,0,0,1,0,79400,5.8,AWD,1,,V6,8,,3,Gas,,345,,,,156,Italy
+2022,Maserati,Levante,Modena,SUV,0,0,0,0,0,0,1,0,90400,5,AWD,1,,V6,8,,3,Gas,,424,,,,164,Italy
+2021,Lexus,RX 350,,SUV,0,0,0,0,0,0,1,0,45320,,FWD,3,,V6,8,,,Gas,,295,,,,,Japan
+2021,Dodge,Durango,SXT,SUV,0,0,0,0,0,0,1,0,32962,,RWD,2,,V6,8,,3.6,Gas,,293,,,,,USA
+2021,Dodge,Durango,SXT PLUS,SUV,0,0,0,0,0,0,1,0,37352,,RWD,2,,V6,8,,3.6,Gas,,295,,,,,USA
+2021,Dodge,Durango,GT,SUV,0,0,0,0,0,0,1,0,37157,,RWD,2,,V6,8,,3.6,Gas,,295,,,,,USA
+2021,Dodge,Durango,GT PLUS,SUV,0,0,0,0,0,0,1,0,41157,,RWD,2,,V6,8,,3.6,Gas,,295,,,,,USA
+2022,BMW,X5 M50i,,SUV,0,0,0,0,0,0,1,0,82800,4.1,AWD,1,22,V8,9,M TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,X5 M,,SUV,0,0,0,0,0,0,1,0,105900,3.8,AWD,1,,V8,9,M TwinPower Turbo,4.4,Gas,,600,,,,,Germany
+2022,BMW,X6 M,,SUV,0,0,0,0,0,0,1,0,109400,3.8,AWD,1,18,V8,9,M TwinPower Turbo,4.4,Gas,,600,,,,,Germany
+2022,BMW,X6 M50i,,SUV,0,0,0,0,0,0,1,0,86250,4.1,AWD,1,22,V8,9,M Performance TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,X7 M50i,,SUV,0,0,0,0,0,0,1,0,99800,4.5,AWD,1,21,V8,9,M TwinPower Turbo,4.4,Gas,,523,,,,,Germany
+2022,BMW,ALPINA XB7,,SUV,0,0,0,0,0,0,1,0,141300,4,AWD,1,21,V8,9,ALPINA Bi-Turbo,4.4,Gas,,612,,,,,Germany
+2021,Dodge,Durango,R/T,SUV,0,0,0,0,0,0,1,0,49007,,AWD,1,,V8,9,,5.7,Gas,,360,,,,,USA
+2021,Dodge,Durango,CITADEL,SUV,0,0,0,0,0,0,1,0,51412,,AWD,1,,V8,9,,5.7,Gas,,360,,,,,USA
+2021,Dodge,Durango,SRT,SUV,0,0,0,0,0,0,1,0,65357,4.4,AWD,1,,V8,9,,6.4,Gas,,475,,,,,USA
+2021,Dodge,Durango,SRT HELLCAT,SUV,0,0,0,0,0,0,1,0,81390,3.5,AWD,1,,V8,9,,6.2,Gas,,710,,,,,USA
+2022,Maserati,Levante,Trofeo,SUV,0,0,0,0,0,0,1,0,153100,3.8,AWD,1,,V8,9,,3.8,Gas,,580,,,,187,Italy
+2022,Maserati,Levante,Modena S,SUV,0,0,0,0,0,0,1,0,115400,4,AWD,1,,V8,9,,3.8,Gas,,550,,,,181,Italy
+2021,Dodge,Durango,R/T,SUV,0,0,0,0,0,0,1,0,46407,,RWD,2,,V8,9,,5.7,Gas,,360,,,,,USA
+2021,Dodge,Durango,CITADEL,SUV,0,0,0,0,0,0,1,0,48812,,RWD,2,,V8,9,,5.7,Gas,,360,,,,,USA
+,Mercedes-Benz,G 550 SUV,,SUV,0,0,0,0,0,0,1,0,131750,5.6,,,,V8,9,Bi-Turbo,4,Gas,,416,,,,,Germany
+,Mercedes-Benz,AMG G 63 SUV,,SUV,0,0,0,0,0,0,1,0,156450,4.5,,,,V8,9,AMG Bi-Turbo,4,Gas,,577,,,,,Germany
+,Mercedes-Maybach,GLS 600 SUV,,SUV,0,0,0,0,0,0,1,0,160500,4.8,,,,V8,9,Bi-Turbo w/ EQ Boost,4,Gas,,550,,,,,Germany
+2021,Lexus,RX 350,,SUV,0,0,0,0,0,0,1,0,46720,,AWD,1,,,,,,Gas,,295,,,,,Japan
+2021,Lexus,RX 350 F SPORT,,SUV,0,0,0,0,0,0,1,0,50200,,AWD,1,,,,,,Gas,,,,,,,Japan
+2021,Lexus,RX 350L,,SUV,0,0,0,0,0,0,1,0,49550,,AWD,1,,,,,,Gas,,,,,,,Japan
+2021,Lexus,RX 450h,,SUV,0,0,0,0,0,0,1,0,48020,,AWD,1,,,,,,Hybrid,,308,,,,,Japan
+2021,Lexus,RX 450h F SPORT,,SUV,0,0,0,0,0,0,1,0,51500,,AWD,1,,,,,,Hybrid,,,,,,,Japan
+2021,Lexus,RX 450hL,,SUV,0,0,0,0,0,0,1,0,51410,,AWD,1,,,,,,Gas,,,,,,,Japan
+2021,Lexus,RX 350 F SPORT,,SUV,0,0,0,0,0,0,1,0,48800,,FWD,3,,,,,,Gas,,,,,,,Japan
+2021,Lexus,RX 350L,,SUV,0,0,0,0,0,0,1,0,48150,,FWD,3,,,,,,Gas,,,,,,,Japan
+,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,,Wagon,0,0,0,0,0,0,0,1,67600,,AWD,1,,I6,7,Turbo w/ EQ Boost,3,Gas,,362,,,,,Germany
+,Porsche,Panamera,4 Sport Turismo,Wagon,0,0,0,0,0,0,0,1,99200,5,,,,V6,8,Twin-Turbocharged,,Gas,,325,,,,164,Germany
+,Porsche,Panamera,4S Sport Turismo,Wagon,0,0,0,0,0,0,0,1,112600,4.1,,,,V6,8,Twin-Turbocharged,,Gas,,443,,,,180,Germany
+,Porsche,Panamera,4 E-Hybrid Sport Turismo,Wagon,0,0,0,0,0,0,0,1,109000,4.2,,,,V6,8,Twin-Turbocharged,,Hybrid,,455,,,,174,Germany
+,Porsche,Panamera,4S E-Hybrid Sport Turismo,Wagon,0,0,0,0,0,0,0,1,118700,3.5,,,,V6,8,Twin-Turbocharged,,Hybrid,,552,,,,182,Germany
+,Mercedes-Benz,AMG E 63 S Wagon,,Wagon,0,0,0,0,0,0,0,1,112450,3.4,,,,V8,9,AMG Bi-Turbo,4,Gas,,603,,,,,Germany
+,Porsche,Panamera,GTS Sport Turismo,Wagon,0,0,0,0,0,0,0,1,136900,3.7,,,,V8,9,Twin-Turbocharged,,Gas,,473,,,,182,Germany
+,Porsche,Panamera,Turbo S Sport Turismo,Wagon,0,0,0,0,0,0,0,1,183800,2.9,,,,V8,9,Twin-Turbocharged,,Gas,,620,,,,196,Germany
+,Porsche,Panamera,Turbo S E-Hybrid Sport Turismo,Wagon,0,0,0,0,0,0,0,1,193800,3,,,,V8,9,Twin-Turbocharged,,Hybrid,,690,,,,196,Germany
+,Porsche,Taycan,4 Cross Turismo,Wagon,0,0,0,0,0,0,0,1,93700,4.8,,,,,,,,Electric,,469,,,215,137,Germany
+,Porsche,Taycan,4S Cross Turismo,Wagon,0,0,0,0,0,0,0,1,110300,3.9,,,,,,,,Electric,,562,,,215,149,Germany
+,Porsche,Taycan,Turbo Cross Turismo,Wagon,0,0,0,0,0,0,0,1,153500,3.1,,,,,,,,Electric,,670,,,204,155,Germany
+,Porsche,Taycan,Turbo S Cross Turismo,Wagon,0,0,0,0,0,0,0,1,187600,2.7,,,,,,,,Electric,,750,,,202,155,Germany
