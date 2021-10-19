@@ -1,4 +1,0 @@
-sklearn==1.0
-matplotlib==3.3.4
-pandas==1.2.4
-streamlit==1.0
